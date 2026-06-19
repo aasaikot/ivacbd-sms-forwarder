@@ -99,7 +99,7 @@ You have the right to:
 - ✅ **Withdraw Consent**: Uninstall the app at any time
 
 ### How to Exercise Your Rights
-Contact us at: **your-email@example.com**
+Contact us at: **admin@ivactoken.xyz**
 
 ---
 
@@ -121,9 +121,9 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 If you have any questions about this privacy policy, please contact us:
 
-📧 **Email:** your-email@example.com  
-🌐 **Website:** https://your-website-url.com  
-📱 **GitHub:** https://github.com/yourusername/ivacbd-sms-forwarder
+📧 **Email:** admin@ivactoken.xyz  
+🌐 **Website:** https:/ivactoken.xyz 
+📱 **GitHub:** https://github.com/aasaikot/ivacbd-sms-forwarder
 
 ---
 
