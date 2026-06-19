@@ -122,7 +122,7 @@ We may update this privacy policy from time to time. We will notify you of any c
 If you have any questions about this privacy policy, please contact us:
 
 📧 **Email:** admin@ivactoken.xyz  
-🌐 **Website:** https:/ivactoken.xyz 
+🌐 **Website:** https:/ivactoken.xyz
 📱 **GitHub:** https://github.com/aasaikot/ivacbd-sms-forwarder
 
 ---
